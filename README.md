@@ -1,3 +1,4 @@
+<pre>
 - 👋 Hi, I’m Erick Funier
 - 👀 I’m interested in:</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Programming (Python, C++)</br>
@@ -22,3 +23,4 @@
 
 - 📫 How to reach me:</br>
     &nbsp;&nbsp;&nbsp;&nbsp;erickfuniers@gmail.com
+</pre>
