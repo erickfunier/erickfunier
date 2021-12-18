@@ -1,4 +1,3 @@
-<pre>
 - 👋 Hi, I’m Erick Funier
 - 👀 I’m interested in:</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Programming (Python, C++)</br>
@@ -21,8 +20,5 @@
     - Programming</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
 
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow">
-  <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-</a>
-</pre>
+- 📫 How to reach me:</br>
+<a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow"><img align="left" alt="Erick's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a><a href="mailto:erickfunier@gmail.com">Email</a>
