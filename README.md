@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erick Funier
 - 👀 I’m interested in:</br>
- &nbsp;&nbsp;&nbsp;&nbsp;- Programming (Python, C++)</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- Programming (C++, Python, Java)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Databases (MySQL)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- AI (Neural Network)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (JS)</br>
