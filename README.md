@@ -17,7 +17,7 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
     - IoT</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/STM32_Display_TFT"><b>STM32_Display_TFT</a> <i>(C)</i></b></br>
-    - Games</br>        
+    - Games</br>       
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/CannonShooter"><b>CannonShooter</a><i> (Unity)</i></b></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/computer-graphics"><b>Computer Graphics</a> <i>(OpenGL)</i></b></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BoxzeiraGame"><b>BoxzeiraGame</a><i> (Java)</i></b></br>    
