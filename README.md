@@ -15,10 +15,10 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/computer-graphics"><b>Computer Graphics</a> <i>(OpenGL)</i></b></br>
     - Java</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/feistel-cypher"><b>Feistel Cypher</b></a></br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</b></a></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook (Latest)</b></a></br>
     - Python</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/sudoku-solver"><b>Sudoku Solver</b></a></br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</b></a></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis (Latest)</b></a></br>
     - Programming</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
 
