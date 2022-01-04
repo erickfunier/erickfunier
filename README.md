@@ -18,6 +18,7 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</b></a></br>
     - Python</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/sudoku-solver"><b>Sudoku Solver</b></a></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</b></a></br>
     - Programming</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
 
