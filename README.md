@@ -4,7 +4,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;- Databases (MySQL)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- AI (Neural Network)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (HTML, CSS, JS, PHP)</br>
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning Web Development and Java
 
  - Follow my projects in github:
     - IoT</br>
