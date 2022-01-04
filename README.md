@@ -15,7 +15,7 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/computer-graphics"><b>Computer Graphics</a> <i>(OpenGL)</i></b></br>
     - Java</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/feistel-cypher"><b>Feistel Cypher</b></a></br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</s> <i>(Latest with Test codes and Docker)</b></i></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</a> <i>(Latest with Test codes and Docker)</b></i></br>
     - Python</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/sudoku-solver"><b>Sudoku Solver</b></a></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</a> <i>(Latest)</b></i></br>
