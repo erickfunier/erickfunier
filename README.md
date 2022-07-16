@@ -10,7 +10,7 @@
     - Web Dev</br>
         &nbsp;&nbsp;&nbsp;<a href="https://cripto.devmastercode.com/"><b>Cripto Arbitrage</a></br>
     - Java</br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BankerAlgorithm"><b>Banker Algorithm</a></b><i>(Portuguese content)</i></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BankerAlgorithm"><b>Banker Algorithm</a></b></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</a> <i>(Latest with Test codes with Docker)</b></i></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/feistel-cypher"><b>Feistel Cypher</b></a></br>
     - Python</br>
