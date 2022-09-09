@@ -3,7 +3,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;- Programming (C++, Python, Java)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Databases (MySQL)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- AI (Neural Network)</br>
- &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (HTML, CSS, JS, PHP, Sping Boot)</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (HTML, CSS, JS, PHP, Spring Boot)</br>
 - 🌱 I’m currently learning Web Development and Java
 
  - Follow my projects in github:
