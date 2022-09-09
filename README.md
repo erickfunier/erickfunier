@@ -8,7 +8,7 @@
 
  - Follow my projects in github:
     - Web Dev</br>
-        &nbsp;&nbsp;&nbsp;<a href="https://cripto.devmastercode.com/"><b>Cripto Arbitrage</a></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://cripto.devmastercode.com/"><b>Cripto Arbitrage</a></b>(HTML, CSS, JS, PHP, MySQL, Python)</br>
     - Java</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BankerAlgorithm"><b>Banker Algorithm</a></b></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</a> <i>(Latest with Test codes with Docker)</b></i></br>
