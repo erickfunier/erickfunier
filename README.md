@@ -15,11 +15,11 @@
     - Java</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/JSON-Database"><b>JSON Database</b></a></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BankerAlgorithm"><b>Banker Algorithm</a></b></br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</a> <i>(Latest with Test codes with Docker)</b></i></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Phonebook"><b>Phonebook</a> <i>(With Test codes and Docker)</b></i></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/feistel-cypher"><b>Feistel Cypher</b></a></br>
     - Python</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/sudoku-solver"><b>Sudoku Solver</b></a></br>
-        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</a> <i>(Latest with docker)</b></i></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</a> <i>(With docker)</b></i></br>
     - Programming</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
     - IoT</br>
