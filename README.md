@@ -20,6 +20,7 @@
     - Python</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/sudoku-solver"><b>Sudoku Solver</b></a></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/Sentiment-Analysis"><b>Sentiment-Analysis</a> <i>(With docker)</b></i></br>
+        &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/SuperMarioAI"><b>Super Mario AI</a></br>
     - Programming</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/algorithms-and-data-structure"><b>Algorithms and Data Structures</b></a> <i>(C)</i></br>
     - IoT</br>
