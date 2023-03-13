@@ -4,7 +4,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;- Databases (MySQL)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- AI (Neural Network, Sklearn)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (HTML, CSS, JS, PHP, Spring Boot)</br>
-- 🌱 I’m currently learning Web Development and Java
+- 🌱 I’m currently learning Web Development and NoSQL
 
  - Follow my projects in github:
     - Web Dev</br>
