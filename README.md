@@ -35,5 +35,5 @@
 <div>
   <a href="https://github.com/erickfunier">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=erickfunier&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Erick_Funier's_GitHub_Stats"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfunier&layout=compact&langs_count=20&theme=chartreuse-dark&line_height="/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfunier&layout=compact&langs_count=16&theme=chartreuse-dark&line_height="/>
 <div>
