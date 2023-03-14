@@ -35,6 +35,7 @@
 <a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow"><img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 <a href="mailto:erickfuniers@gmail.com">Email</a>
 
+![Snake animation](https://github.com/erickfunier/pecanela/blob/output/github-contribution-grid-snake.svg)
 <div>
   <a href="https://github.com/erickfunier">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=erickfunier&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Erick_Funier's_GitHub_Stats"/>
