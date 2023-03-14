@@ -30,10 +30,8 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/computer-graphics"><b>Computer Graphics</a> <i>(OpenGL)</i></b></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BoxzeiraGame"><b>BoxzeiraGame</a><i> (Java)</i></b></br>   
 
-<img src="header.svg" width="800" height="400" alt="Click to see the source">
+
 - 📫 How to reach me:</br>
-
-
 <a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow"><img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
  <a href="mailto:erickfuniers@gmail.com">Email</a>
