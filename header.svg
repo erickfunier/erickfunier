@@ -27,7 +27,7 @@
 					text-align: center;
 				}
         
-				.container:hover {
+				.container:hover p {
 				  	transform: scale(1.25);
 				  	color: black;
 				}
