@@ -31,7 +31,11 @@
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BoxzeiraGame"><b>BoxzeiraGame</a><i> (Java)</i></b></br>   
 
 - 📫 How to reach me:</br>
-<a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow"><img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a><a href="mailto:erickfuniers@gmail.com">Email</a>
+<a style=":hover { transform: scale(1.25) }"> TESTE </a>
+
+<a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow"><img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+
+ <a href="mailto:erickfuniers@gmail.com">Email</a>
 <div>
   <a href="https://github.com/erickfunier">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=erickfunier&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Erick_Funier's_GitHub_Stats"/>
