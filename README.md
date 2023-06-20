@@ -11,7 +11,7 @@
         &nbsp;&nbsp;&nbsp;- <a href="https://github.com/erickfunier/vehicle-service-record"><b>Vehicle Service Record</a></b> (REST, Spring Boot) [Under construction] </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The REST endpoint is available in https://devmaster.onthewifi.com:7280/vehicle-service-record/ and the REST docs can be checked in https://devmaster.onthewifi.com:7280/vehicle-service-record/swagger-ui.html</br>
         &nbsp;&nbsp;&nbsp;- <a href="https://devmaster.onthewifi.com:7280/cripto-arbitrage"><b>Cripto Arbitrage</a></b> (HTML, CSS, JS, PHP, MySQL, Python)</br>
-        &nbsp;&nbsp;&nbsp;- REST API to get JSON data from Poloniex and Binance (USDT to BTC) - <a href="http://devmaster.onthewifi.com/cripto-arbitrage/synoptics/tools/getdataREST.php"><b>REST API</b></a>
+        &nbsp;&nbsp;&nbsp;- REST API to get JSON data from Poloniex and Binance (USDT to BTC) - <a href="https://devmaster.onthewifi.com:7280/cripto-arbitrage/synoptics/tools/getdataREST.php"><b>REST API</b></a>
     - Java</br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/JSON-Database"><b>JSON Database</b></a></br>
         &nbsp;&nbsp;&nbsp;<a href="https://github.com/erickfunier/BankerAlgorithm"><b>Banker Algorithm</a></b></br>
