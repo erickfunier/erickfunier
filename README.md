@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/erick-funier/" rel="nofollow" target="_blank"><img alt="Erick's LinkedIN" width="22px" src="https://github.com/erickfunier/erickfunier/assets/38412804/529aa7a9-c77f-4ed4-bda8-7fbb38792934"> Linkedin</a></br>
 <a href="mailto:erickfuniers@gmail.com"><img width="22px" src="https://github.com/erickfunier/erickfunier/assets/38412804/c97bf941-93aa-4c77-b667-7bc996ecfbd7"> Email</a>
 
-![Snake animation](https://github.com/erickfunier/erickfunier/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/erickfunier/erickfunier/blob/output/github-contribution-grid-snake.svg)-->
 <div>
   <a href="https://github.com/erickfunier">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=erickfunier&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Erick_Funier's_GitHub_Stats"/>
