@@ -8,6 +8,7 @@
 
  - Follow my projects in github:
     - Web Dev</br>
+        &nbsp;&nbsp;&nbsp;- <a href="https://fuel-car.vercel.app"><b>Fuel Card</a></b> (Angular, NodeJs) [Under construction] </br>
         &nbsp;&nbsp;&nbsp;- <a href="https://github.com/erickfunier/vehicle-service-record"><b>Vehicle Service Record</a></b> Back-End (REST, Spring Boot) [Under construction] </br>
         &nbsp;&nbsp;&nbsp;- <a href="http://devmaster.onthewifi.com:7280/cripto-arbitrage"><b>Cripto Arbitrage</a></b> (HTML, CSS, JS, PHP, MySQL, Python)</br>
         <p align="center">
