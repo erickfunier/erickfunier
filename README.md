@@ -8,7 +8,7 @@
 
  - Follow my projects in github:
     - Web Dev</br>
-        &nbsp;&nbsp;&nbsp;- <a href="https://github.com/erickfunier/ai-smart-queue-demo"><b>AI Smart Queue</a></b> AI‑powered distributed job queue written in Go </br>
+        &nbsp;&nbsp;&nbsp;- <a href="https://erickfunier.github.io/ai-smart-queue-demo"><b>AI Smart Queue</a></b> AI‑powered distributed job queue written in Go </br>
         &nbsp;&nbsp;&nbsp;- <a href="https://fuel-car.vercel.app"><b>Fuel Car</a></b> (Angular, NodeJs) </br>
         <p align="center">
           <img width="800" alt="Fuel Car" src="https://github.com/user-attachments/assets/86914f32-e87f-41da-a47e-c27b9dda8ab7" />
