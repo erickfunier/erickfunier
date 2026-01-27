@@ -1,19 +1,19 @@
 - 👋 Hi, I’m Erick Funier
 - 👀 I’m interested in:</br>
- &nbsp;&nbsp;&nbsp;&nbsp;- Programming (C++, Python, Java)</br>
- &nbsp;&nbsp;&nbsp;&nbsp;- Databases (MySQL)</br>
- &nbsp;&nbsp;&nbsp;&nbsp;- AI (Neural Network, Sklearn)</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- Programming (Go, Python, Java)</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- Databases (Relational and Non-Relational)</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- AI (LLM, Neural Network, Sklearn)</br>
  &nbsp;&nbsp;&nbsp;&nbsp;- Full-stack development (HTML, CSS, JS, PHP, Spring Boot)</br>
 - 🌱 I’m currently working as Back-End Software Developer
 
  - Follow my projects in github:
     - Web Dev</br>
+        &nbsp;&nbsp;&nbsp;- <a href="https://github.com/erickfunier/ai-smart-queue-demo"><b>AI Smart Queue</a></b> AI‑powered distributed job queue written in Go </br>
         &nbsp;&nbsp;&nbsp;- <a href="https://fuel-car.vercel.app"><b>Fuel Car</a></b> (Angular, NodeJs) </br>
         <p align="center">
           <img width="800" alt="Fuel Car" src="https://github.com/user-attachments/assets/86914f32-e87f-41da-a47e-c27b9dda8ab7" />
         </p>
-        &nbsp;&nbsp;&nbsp;- <a href="https://github.com/erickfunier/vehicle-service-record"><b>Vehicle Service Record</a></b> Back-End (REST, Spring Boot) [Under construction] </br>
-        &nbsp;&nbsp;&nbsp;- <a href="http://devmaster.onthewifi.com:7280/cripto-arbitrage"><b>Cripto Arbitrage</a></b> (HTML, CSS, JS, PHP, MySQL, Python)</br>
+        &nbsp;&nbsp;&nbsp;- <a href="#"><b>Cripto Arbitrage</a></b> (HTML, CSS, JS, PHP, MySQL, Python)</br>
         <p align="center">
           <img width="800" src="https://github.com/erickfunier/erickfunier/assets/38412804/284faa64-7fea-4dc5-b109-f00d1f952b06.png" alt="Cripto Arbitrage" />
         </p>
