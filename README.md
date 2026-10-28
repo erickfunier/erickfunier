@@ -8,9 +8,10 @@
 
  - Follow my projects in github:
     - Web Dev</br>
-        &nbsp;&nbsp;&nbsp;- <a href="https://fuel-car.vercel.app"><b>Fuel Car</a></b> (Angular, NodeJs) </br>
+        &nbsp;&nbsp;&nbsp;- <a href="https://roadarity.com"><b>Roadarity</b></a> (Angular, TypeScript, SSR/prerender) </br>
+        &nbsp;&nbsp;&nbsp;Independent vehicle-efficiency discovery and comparison, with official Brazilian data, rankings, and practical guides.</br>
         <p align="center">
-          <img width="800" alt="Fuel Car" src="https://github.com/user-attachments/assets/86914f32-e87f-41da-a47e-c27b9dda8ab7" />
+          <a href="https://roadarity.com"><img width="800" alt="Roadarity — vehicle efficiency, comparison, and guides" src="https://raw.githubusercontent.com/erickfunier/erickfunier/main/assets/roadarity-home.png" /></a>
         </p>
         &nbsp;&nbsp;&nbsp;- <a href="#"><b>Cripto Arbitrage</a></b> (HTML, CSS, JS, PHP, MySQL, Python)</br>
         <p align="center">
